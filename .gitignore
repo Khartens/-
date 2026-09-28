@@ -1,0 +1,7 @@
+# Секреты и локальные файлы никогда не попадают в Growth OS
+.env
+.env.*
+*.key
+*.pem
+.DS_Store
+Thumbs.db
