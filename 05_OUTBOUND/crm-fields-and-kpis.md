@@ -26,7 +26,7 @@
 | `lost_reason` | список | no_response / not_interested / wrong_fit / later | — |
 | `listing_urls` | ссылки | mashinarf.ru/car-ad?slug=… | — |
 | `telegram_bot_connected` | да/нет | — | — |
-| `founder_program` | да/нет + дата окончания | «Бизнес» бесплатно до ГГГГ-ММ-ДД | — |
+| `founder_program` | да/нет + дата окончания | «Плюс» бесплатно до ГГГГ-ММ-ДД (выдаётся помесячно) | — |
 | `first_contact_at` / `last_contact_at` / `next_step_at` | даты | — | ✅ |
 | `next_step` | текст | «напомнить про фото» | ✅ |
 | `touches` | число | 2 (не больше 3 без ответа) | ✅ |
