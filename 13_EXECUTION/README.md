@@ -4,6 +4,7 @@
 
 | Файл | Что | Обновляется |
 |---|---|---|
+| **[`30-day-plan.md`](30-day-plan.md)** | **Пошаговый план на 30 дней (5 окт – 3 ноя): рилсы, обложки, звонки, сообщения, посты, фото — на каждый день** | По воскресеньям |
 | [`daily.md`](daily.md) | TODAY: 3–5 задач на день, постоянные ежедневные дела | Каждый день |
 | [`weekly.md`](weekly.md) | THIS WEEK: **Weekly Growth Loop** (DATA → ANALYSIS → LEARNING → HYPOTHESIS → EXPERIMENT → RESULT → NEXT), план и обзор недели | Каждый понедельник |
 | [`monthly.md`](monthly.md) | THIS MONTH: цели, бюджет, фокус недель | 1-го числа |

@@ -46,7 +46,7 @@
 
 | Что | Файл | Статус |
 |---|---|---|
-| **С чего начать** | [`13_EXECUTION/weekly.md`](13_EXECUTION/weekly.md) → план недели и growth loop | 🟢 |
+| **С чего начать** | [`13_EXECUTION/30-day-plan.md`](13_EXECUTION/30-day-plan.md) → что делать в каждый из 30 дней; стратегия — [`02_STRATEGY/master-growth-strategy.md`](02_STRATEGY/master-growth-strategy.md) | 🟢 |
 | **План соцсетей и рилсов** | [`03_CONTENT/social-media-plan.md`](03_CONTENT/social-media-plan.md), [`03_CONTENT/reels-virality-analysis.md`](03_CONTENT/reels-virality-analysis.md) | 🟢 |
 | **Кому звонить и писать** | [`05_OUTBOUND/call-and-message-plan.md`](05_OUTBOUND/call-and-message-plan.md) | 🟢 |
 | **Блогеры** | [`04_INFLUENCERS/blogger-list.md`](04_INFLUENCERS/blogger-list.md) | 🟢 71 канал |
@@ -96,7 +96,7 @@
 1. Новая информация от основателя → `00_FOUNDATION/founder-interview.md` (подтверждённые ответы не переписываются без согласия основателя; уточнения добавляются ниже с датой).
 2. Изменился факт о продукте → `00_FOUNDATION/project-brief.md` + строка в «Журнале изменений» брифа.
 3. Новый источник → `00_FOUNDATION/sources.md`.
-4. Каждую неделю → growth loop: **DATA → ANALYSIS → LEARNING → HYPOTHESIS → EXPERIMENT → RESULT → NEXT EXPERIMENT** (описание появится в `13_EXECUTION/`).
+4. Каждую неделю → growth loop: **DATA → ANALYSIS → LEARNING → HYPOTHESIS → EXPERIMENT → RESULT → NEXT EXPERIMENT** (описание — `13_EXECUTION/weekly.md`).
 5. Документ устарел → переносим в `99_ARCHIVE/` с датой в имени, а не удаляем.
 
 ## Безопасность
