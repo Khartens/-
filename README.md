@@ -26,7 +26,7 @@
 |---|---|---|
 | [`00_FOUNDATION/`](00_FOUNDATION/) | Бриф проекта, интервью с основателем, реестр источников | 🟢 бриф v0.2; интервью ждёт ответов |
 | [`01_RESEARCH/`](01_RESEARCH/) | Аудит сайта, рынок, спрос и сезонность, конкуренты, аудитория | 🟢 v1 |
-| [`02_STRATEGY/`](02_STRATEGY/) | Marketplace-стратегия, варианты позиционирования, master strategy | 🟡 черновики до решений основателя |
+| [`02_STRATEGY/`](02_STRATEGY/) | Marketplace-стратегия, варианты позиционирования, master strategy | 🟢 итоговая стратегия v1.0 |
 | [`03_CONTENT/`](03_CONTENT/) | Контент-стратегия, 100 концептов роликов, founder-сериал на 30 дней | 🟢 v1 |
 | [`04_INFLUENCERS/`](04_INFLUENCERS/) | Playbook, outreach-тексты, трекер кампаний | 🟢 v1 |
 | [`05_OUTBOUND/`](05_OUTBOUND/) | Правила, ICP, скрипты, CRM-поля и KPI | 🟢 v1 |
@@ -55,9 +55,9 @@
 | Интервью с основателем | [`00_FOUNDATION/founder-interview.md`](00_FOUNDATION/founder-interview.md) | ✅ закрыто |
 | Реестр источников | [`00_FOUNDATION/sources.md`](00_FOUNDATION/sources.md) | 🟢 |
 | Аудит сайта | [`01_RESEARCH/site-audit-2026-10-02.md`](01_RESEARCH/site-audit-2026-10-02.md) | 🟢 |
-| **Актуальная стратегия** | [`02_STRATEGY/master-growth-strategy.md`](02_STRATEGY/master-growth-strategy.md) | 🟡 v0.1 (черновик до интервью) |
-| Холодный старт маркетплейса | [`02_STRATEGY/marketplace-strategy.md`](02_STRATEGY/marketplace-strategy.md) | 🟡 v0.1 |
-| Позиционирование (выбор основателя) | [`02_STRATEGY/positioning-options.md`](02_STRATEGY/positioning-options.md) | 🟡 ждёт выбора |
+| **Актуальная стратегия** | [`02_STRATEGY/master-growth-strategy.md`](02_STRATEGY/master-growth-strategy.md) | 🟢 v1.0 (итоговая) |
+| Холодный старт маркетплейса | [`02_STRATEGY/marketplace-strategy.md`](02_STRATEGY/marketplace-strategy.md) | 🟢 v0.2 |
+| Позиционирование (выбор основателя) | [`02_STRATEGY/positioning-options.md`](02_STRATEGY/positioning-options.md) | 🟢 рабочее: варианты 1 + 2 + 3 (master strategy §7) |
 | Исследования | [`01_RESEARCH/`](01_RESEARCH/) | 🟢 |
 | Контент | [`03_CONTENT/`](03_CONTENT/) | 🟢 |
 | **KPI и метрики** | [`09_ANALYTICS/metrics.md`](09_ANALYTICS/metrics.md) | 🟢 |
