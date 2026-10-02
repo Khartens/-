@@ -1,10 +1,7 @@
 # 09_ANALYTICS — аналитика
 
-Этап 16.
-
-| Файл (планируется) | Что |
-|---|---|
-| `metrics.md` | Определения: activation, conversion, CAC, LTV, retention, supply/demand/liquidity, transaction metrics |
-| `funnels.md` | Воронки supply и demand |
-| `analytics-recommendations.md` | Какие события нужно добавить в продукт. **Сначала показываем основателю — в код ничего не внедряется без подтверждения** |
-| `kpi-dashboard.md` | Еженедельные значения KPI (когда появятся данные) |
+| Файл | Что | Статус |
+|---|---|---|
+| [`metrics.md`](metrics.md) | North Star (варианты), воронки, определения: activation, conversion, CAC, LTV, retention, supply, demand, liquidity, transactions, trust, revenue; шаблон еженедельного дашборда | ✅ v1 |
+| [`analytics-recommendations.md`](analytics-recommendations.md) | Что добавить в продукт: Метрика (ID пустой), цели, отчёты из базы, атрибуция UTM. **На согласовании, в код ничего не внедрено** | 🟡 ждёт решения |
+| `kpi-dashboard.md` | Еженедельные значения KPI | ⚪ после подключения аналитики |

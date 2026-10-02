@@ -1,13 +1,8 @@
 # 08_CRM — жизненный цикл пользователя
 
-Этап 15. Отдельно для владельцев (supply) и арендаторов (demand).
+| Файл | Что | Статус |
+|---|---|---|
+| [`lifecycle-and-flows.md`](lifecycle-and-flows.md) | Lifecycle владельца и арендатора (VISITOR → REFERRAL); флоу: onboarding, ликвидность (новые заявки → владельцам), abandoned, после сделки, реактивация, referral, push; шаблоны; метрики | ✅ v1 |
 
-Lifecycle: **VISITOR → REGISTRATION → ACTIVATION → LISTING / REQUEST → FIRST TRANSACTION → REPEAT → REFERRAL**
-
-| Файл (планируется) | Что |
-|---|---|
-| `lifecycle-map.md` | Этапы, триггеры переходов, метрики каждого шага |
-| `flows-email.md` / `flows-telegram.md` / `flows-push.md` | Онбординг, брошенные действия, реактивация — только по каналам, которые реально есть в продукте |
-| `referral.md` | Реферальная механика |
-
-Перед проектированием проверяется, какие каналы коммуникации реально реализованы в продукте (см. `00_FOUNDATION/project-brief.md`).
+Отметки «Есть? ✅/❌» в флоу — по аудиту интерфейса. Всё, что ❌, — либо делается вручную на старте, либо продуктовая доработка **после согласования** с основателем.
+CRM для outbound (лиды владельцев и партнёров) — в [`../05_OUTBOUND/crm-fields-and-kpis.md`](../05_OUTBOUND/crm-fields-and-kpis.md).
