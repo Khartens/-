@@ -1,11 +1,11 @@
 # 02_STRATEGY — стратегия
 
-Создаётся **после** discovery и research. До этого здесь нет документов намеренно.
+Документы стратегии. Решения, помеченные 🟡, принимает основатель.
 
-| Файл (планируется) | Что | Этап |
+| Файл | Что | Этап |
 |---|---|---|
-| `marketplace-strategy.md` | Supply / demand acquisition, liquidity, cold start, city & category strategy, первые 100 владельцев / 100 арендаторов / 10–50 сделок | 7 |
-| `positioning-options.md` | ≥5 вариантов позиционирования. **Выбор делает основатель** | 8 |
+| [`marketplace-strategy.md`](marketplace-strategy.md) ✅ v0.1 | Supply / demand acquisition, liquidity, cold start, city & category strategy, первые 100 владельцев / 100 арендаторов / 10–50 сделок | 7 |
+| [`positioning-options.md`](positioning-options.md) ✅ 6 вариантов | ≥5 вариантов позиционирования. **Выбор делает основатель** | 8 |
 | `master-growth-strategy.md` | Итоговая стратегия (31 раздел) — **единственный** актуальный стратегический документ | 22 |
 
 Предыдущие версии стратегии переносятся в `99_ARCHIVE/` с датой.
