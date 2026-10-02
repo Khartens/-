@@ -47,8 +47,12 @@
 | Что | Файл | Статус |
 |---|---|---|
 | **С чего начать** | [`13_EXECUTION/weekly.md`](13_EXECUTION/weekly.md) → план недели и growth loop | 🟢 |
+| **План соцсетей и рилсов** | [`03_CONTENT/social-media-plan.md`](03_CONTENT/social-media-plan.md), [`03_CONTENT/reels-virality-analysis.md`](03_CONTENT/reels-virality-analysis.md) | 🟢 |
+| **Кому звонить и писать** | [`05_OUTBOUND/call-and-message-plan.md`](05_OUTBOUND/call-and-message-plan.md) | 🟢 |
+| **Блогеры** | [`04_INFLUENCERS/blogger-list.md`](04_INFLUENCERS/blogger-list.md) | 🟢 71 канал |
+| **Решения основателя** | [`00_FOUNDATION/decision-log.md`](00_FOUNDATION/decision-log.md) | 🟢 |
 | Бриф проекта (что подтверждено) | [`00_FOUNDATION/project-brief.md`](00_FOUNDATION/project-brief.md) | 🟢 v0.2 |
-| Интервью с основателем | [`00_FOUNDATION/founder-interview.md`](00_FOUNDATION/founder-interview.md) | 🟡 раунд 1 ждёт ответов |
+| Интервью с основателем | [`00_FOUNDATION/founder-interview.md`](00_FOUNDATION/founder-interview.md) | ✅ закрыто |
 | Реестр источников | [`00_FOUNDATION/sources.md`](00_FOUNDATION/sources.md) | 🟢 |
 | Аудит сайта | [`01_RESEARCH/site-audit-2026-10-02.md`](01_RESEARCH/site-audit-2026-10-02.md) | 🟢 |
 | **Актуальная стратегия** | [`02_STRATEGY/master-growth-strategy.md`](02_STRATEGY/master-growth-strategy.md) | 🟡 v0.1 (черновик до интервью) |
