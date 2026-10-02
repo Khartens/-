@@ -24,20 +24,20 @@
 
 | Папка | Назначение | Статус |
 |---|---|---|
-| [`00_FOUNDATION/`](00_FOUNDATION/) | Бриф проекта, интервью с основателем, реестр источников. Фундамент, на который ссылается всё остальное | 🟢 начато |
-| [`01_RESEARCH/`](01_RESEARCH/) | Рынок, конкуренты, аудитория, спрос, поиск, отзывы | ⚪ ждёт discovery |
-| [`02_STRATEGY/`](02_STRATEGY/) | Позиционирование, marketplace-стратегия, master growth strategy | ⚪ ждёт research |
-| [`03_CONTENT/`](03_CONTENT/) | Контент-движок: pillars, хуки, сценарии, founder-сериал | ⚪ |
-| [`04_INFLUENCERS/`](04_INFLUENCERS/) | Блогеры: сегменты, скоринг, outreach, трекинг кампаний | ⚪ |
-| [`05_OUTBOUND/`](05_OUTBOUND/) | Прямые продажи/привлечение: владельцы, автопарки, прокаты, B2B | ⚪ |
-| [`06_PAID/`](06_PAID/) | Платные каналы и тесты | ⚪ |
-| [`07_SEO/`](07_SEO/) | Семантика, кластеры, города/категории, SEO-роадмап | ⚪ |
-| [`08_CRM/`](08_CRM/) | Lifecycle, email/Telegram/push, онбординг, реактивация, рефералка | ⚪ |
-| [`09_ANALYTICS/`](09_ANALYTICS/) | События, воронки, метрики маркетплейса, рекомендации по трекингу | ⚪ |
-| [`10_EXPERIMENTS/`](10_EXPERIMENTS/) | Бэклог гипотез, карточки экспериментов, результаты | ⚪ |
-| [`11_PARTNERSHIPS/`](11_PARTNERSHIPS/) | Партнёрства и интеграции | ⚪ |
-| [`12_PR/`](12_PR/) | PR, СМИ, упоминания | ⚪ |
-| [`13_EXECUTION/`](13_EXECUTION/) | TODAY / THIS WEEK / THIS MONTH, роадмап, еженедельный growth loop | ⚪ |
+| [`00_FOUNDATION/`](00_FOUNDATION/) | Бриф проекта, интервью с основателем, реестр источников | 🟢 бриф v0.2; интервью ждёт ответов |
+| [`01_RESEARCH/`](01_RESEARCH/) | Аудит сайта, рынок, спрос и сезонность, конкуренты, аудитория | 🟢 v1 |
+| [`02_STRATEGY/`](02_STRATEGY/) | Marketplace-стратегия, варианты позиционирования, master strategy | 🟡 черновики до решений основателя |
+| [`03_CONTENT/`](03_CONTENT/) | Контент-стратегия, 100 концептов роликов, founder-сериал на 30 дней | 🟢 v1 |
+| [`04_INFLUENCERS/`](04_INFLUENCERS/) | Playbook, outreach-тексты, трекер кампаний | 🟢 v1 |
+| [`05_OUTBOUND/`](05_OUTBOUND/) | Правила, ICP, скрипты, CRM-поля и KPI | 🟢 v1 |
+| [`06_PAID/`](06_PAID/) | Каналы и 8 карточек тестов | 🟢 v1 |
+| [`07_SEO/`](07_SEO/) | Кластеры запросов и SEO-роадмап | 🟢 v1 (частотность ждёт Wordstat) |
+| [`08_CRM/`](08_CRM/) | Lifecycle и флоу | 🟢 v1 |
+| [`09_ANALYTICS/`](09_ANALYTICS/) | Метрики и рекомендации по трекингу | 🟡 рекомендации на согласовании |
+| [`10_EXPERIMENTS/`](10_EXPERIMENTS/) | Бэклог из 100 экспериментов с ICE | 🟢 v1 |
+| [`11_PARTNERSHIPS/`](11_PARTNERSHIPS/) | Карта партнёрств | 🟢 v1 |
+| [`12_PR/`](12_PR/) | PR-поводы | 🟢 v1 |
+| [`13_EXECUTION/`](13_EXECUTION/) | TODAY / THIS WEEK / THIS MONTH / роадмап, weekly growth loop | 🟢 запущено |
 | [`99_ARCHIVE/`](99_ARCHIVE/) | Устаревшие версии документов (не удаляем — архивируем) | ⚪ |
 
 Каждая папка содержит `README.md`: что в ней будет, какие файлы и по какому шаблону. Пустые файлы-заглушки не создаются — файл появляется, когда у него есть содержание.
@@ -46,13 +46,19 @@
 
 | Что | Файл | Статус |
 |---|---|---|
-| Бриф проекта (что подтверждено) | [`00_FOUNDATION/project-brief.md`](00_FOUNDATION/project-brief.md) | 🟢 v0.1 |
+| **С чего начать** | [`13_EXECUTION/weekly.md`](13_EXECUTION/weekly.md) → план недели и growth loop | 🟢 |
+| Бриф проекта (что подтверждено) | [`00_FOUNDATION/project-brief.md`](00_FOUNDATION/project-brief.md) | 🟢 v0.2 |
 | Интервью с основателем | [`00_FOUNDATION/founder-interview.md`](00_FOUNDATION/founder-interview.md) | 🟡 раунд 1 ждёт ответов |
 | Реестр источников | [`00_FOUNDATION/sources.md`](00_FOUNDATION/sources.md) | 🟢 |
-| Актуальная стратегия | `02_STRATEGY/master-growth-strategy.md` | ⚪ ещё не создана (после discovery и research) |
-| Исследования | [`01_RESEARCH/`](01_RESEARCH/) | ⚪ |
-| KPI и метрики | `09_ANALYTICS/` | ⚪ |
-| Эксперименты | `10_EXPERIMENTS/backlog.md` | ⚪ |
+| Аудит сайта | [`01_RESEARCH/site-audit-2026-10-02.md`](01_RESEARCH/site-audit-2026-10-02.md) | 🟢 |
+| **Актуальная стратегия** | [`02_STRATEGY/master-growth-strategy.md`](02_STRATEGY/master-growth-strategy.md) | 🟡 v0.1 (черновик до интервью) |
+| Холодный старт маркетплейса | [`02_STRATEGY/marketplace-strategy.md`](02_STRATEGY/marketplace-strategy.md) | 🟡 v0.1 |
+| Позиционирование (выбор основателя) | [`02_STRATEGY/positioning-options.md`](02_STRATEGY/positioning-options.md) | 🟡 ждёт выбора |
+| Исследования | [`01_RESEARCH/`](01_RESEARCH/) | 🟢 |
+| Контент | [`03_CONTENT/`](03_CONTENT/) | 🟢 |
+| **KPI и метрики** | [`09_ANALYTICS/metrics.md`](09_ANALYTICS/metrics.md) | 🟢 |
+| Рекомендации по аналитике (согласовать) | [`09_ANALYTICS/analytics-recommendations.md`](09_ANALYTICS/analytics-recommendations.md) | 🟡 |
+| **Эксперименты** | [`10_EXPERIMENTS/backlog.md`](10_EXPERIMENTS/backlog.md) | 🟢 100 шт. |
 
 ## Правила системы
 
