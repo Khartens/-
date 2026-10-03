@@ -10,6 +10,22 @@
 | Механика | **Тендеры**: арендатор публикует запрос, владельцы предлагают цену. Это аналог заявок Машины.РФ | SOURCE, Low |
 | Demand acquisition | Партнёрская программа через Travelpayouts (аффилиаты в туризме) | FACT (страница Travelpayouts в выдаче) |
 | Mobile | Приложение в Google Play | FACT (выдача) |
+| Pricing | UNKNOWN (заявлено «экономия до 40%») | SOURCE, Low |
+| Business model | Маркетплейс аренды у местных владельцев и небольших прокатов, тендеры | SOURCE, Low |
+| Supply acquisition | UNKNOWN | — |
+| UX | Сайт + приложение; бездепозитная аренда | SOURCE, Low |
+| SEO / Content / Social | UNKNOWN | — |
+| Influencers | Аффилиаты в туризме через Travelpayouts | FACT (выдача) |
+| Trust / Reviews | UNKNOWN | — |
+| Referral | UNKNOWN | — |
+| B2B | UNKNOWN | — |
+
+## Strengths
+- Международный охват, механика тендеров (аналог заявок).
+- Аффилиатный канал в туризме.
+
+## Weaknesses
+- Фокус на путешественниках и зарубежье; спецтехники нет (HYPOTHESIS).
 
 ## Gaps
 - Фокус на путешественниках и зарубежье. Внутренний рынок РФ для них не основной (HYPOTHESIS).

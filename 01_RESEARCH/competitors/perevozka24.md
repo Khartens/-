@@ -16,6 +16,9 @@
 | Trust | Рейтинги и отзывы; «безопасная сделка» при онлайн-оплате | FACT (iGrader) |
 | Mobile | Приложения iOS и Android; уведомления по почте, SMS, через Telegram-бота и push | FACT (iGrader) |
 | Referral / Influencers | UNKNOWN | — |
+| Content / Social | UNKNOWN (не изучено) | — |
+| Reviews | Рейтинги и отзывы исполнителей | FACT (iGrader) |
+| B2B | Позиционирование «главная B2B-база»; заказчики — в том числе компании | FACT (vc.ru, Low) |
 
 ## Strengths
 - 19 лет на рынке, SEO-покрытие всей России, приложения.
