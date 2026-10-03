@@ -2,7 +2,7 @@
 
 **Дата:** 2026-10-02 · **Статус:** v1
 **Задача (основатель):** снимать людей на выездах сложно. Нужны форматы, которые можно снять одной, дома, в машине или с экрана, — и при этом с хуками, которые цепляют. Сначала хук, потом история, **только в конце** платформа.
-Готовые тексты: [`ready-scripts.md`](ready-scripts.md) (40 сценариев слово в слово) и [`ready-posts.md`](ready-posts.md) (посты и подписи). Почему именно так: [`reels-virality-analysis.md`](reels-virality-analysis.md).
+> **Обновлено 2026-10-03:** рабочие тексты теперь — сериал [`founder-series-30-days.md`](founder-series-30-days.md) и 59 пошаговых роликов [`ready-scripts.md`](ready-scripts.md); как снимать — [`how-to-film.md`](how-to-film.md). Этот файл — справочник: форматы и банк хуков. Почему именно так: [`reels-market-2026-10.md`](reels-market-2026-10.md), [`reels-virality-analysis.md`](reels-virality-analysis.md).
 
 ---
 

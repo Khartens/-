@@ -44,8 +44,8 @@ def logo(d,x,y,size,color=NAVY,center=False):
     if center: x=x-(h*1.28+wordmark_len(int(h*0.62)))/2
     return lockup(d._image,x,y-size*0.1,h,color)
 
-def label(d,x,y,text,size):
-    f=font('Medium',size); ttext(d,(x,y),text,f,MUTED,track=0)
+def label(d,x,y,text,size,color=None,weight='Medium'):
+    f=font(weight,size); ttext(d,(x,y),text,f,color or MUTED,track=0)
     w=f.getlength(text); d.rounded_rectangle([x,y+size*1.45,x+w,y+size*1.45+max(4,size*0.12)],radius=3,fill=GOLD)
 
 def wrap(f,text,maxw):
